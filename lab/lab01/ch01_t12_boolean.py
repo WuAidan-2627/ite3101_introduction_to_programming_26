@@ -5,6 +5,6 @@ a = True
 b = False
 name_is_maria = 21
 age_is_12 = int(input)
-if name_is_maria=12:
+if name_is_maria ==12:
                True
 else:False
