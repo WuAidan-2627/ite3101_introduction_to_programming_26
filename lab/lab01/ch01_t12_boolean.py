@@ -4,4 +4,5 @@
 a = True
 b = False
 name_is_maria = 21
-age_is_12 = if(name_is_maria=12,print(a))else(print(b))
+age_is_12 = if name_is_maria=12:
+               ,print(a))else(print(b))
