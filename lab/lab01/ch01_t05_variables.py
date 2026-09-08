@@ -1,1 +1,1 @@
-todays_date = 8
+todays_date = %08/%09%2026
