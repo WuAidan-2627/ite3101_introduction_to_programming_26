@@ -1,1 +1,1 @@
-print("This is the first doe")
+print("This is the first code")
