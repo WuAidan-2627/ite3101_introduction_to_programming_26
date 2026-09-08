@@ -3,4 +3,5 @@
 # I'm 21 years old and I plan to program cool stuff forever.
 a = True
 b = False
+name_is_maria = 21
 age_is_12 = if(=12,print(a))else(print(b))
