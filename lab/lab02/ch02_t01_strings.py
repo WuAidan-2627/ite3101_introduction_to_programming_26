@@ -1,1 +1,1 @@
-brain = "Hello "
+brain = "Hello Life!"
