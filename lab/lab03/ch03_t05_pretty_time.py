@@ -1,4 +1,6 @@
 from datetime import datetime
 
 now = datetime.now()
-print()
+print(now.hour) 
+print(now.minute)
+print(now.second)
