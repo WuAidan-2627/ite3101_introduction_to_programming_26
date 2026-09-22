@@ -1,4 +1,4 @@
-def shutdown(s: str) -> str:
+def shut_down(s: str) -> str:
     if s == "yes":
         print("Shutting down")
     elif s == "no":
