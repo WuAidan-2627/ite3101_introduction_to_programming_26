@@ -1,4 +1,4 @@
 def cube(number:int)->number:
-return
+    return
 
 def by_three()
