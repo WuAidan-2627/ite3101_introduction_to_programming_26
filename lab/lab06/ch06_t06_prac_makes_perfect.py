@@ -1,1 +1,3 @@
-def cube()
+def cube(n)
+
+def by_three()
