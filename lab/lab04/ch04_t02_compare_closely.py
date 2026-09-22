@@ -2,7 +2,7 @@
 
 # Set this to True if 17 < 328 or to False if it is not.
 17<328
-bool_one = True  # We did this one for you!
+bool_one = 17<328True  # We did this one for you!
 
 # Set this to True if 100 == (2 * 50) or to False otherwise.
 bool_two = None
