@@ -1,1 +1,2 @@
-def shutdown()
+def shutdown(s:str)->str:
+    returnmessade
