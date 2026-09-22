@@ -4,6 +4,6 @@ def shutdown(s:str)->str:
  if happy(): 
   speak("Shutting down") 
  elif sad(): 
-  speak("I'm sad.") 
+  speak("Shutdown aborted") 
  else: 
   speak("I don't know what I'm feeling.")
