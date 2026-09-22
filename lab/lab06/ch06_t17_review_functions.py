@@ -5,7 +5,3 @@ def shut_down(s: str) -> str:
         print("Shutdown aborted")
     else:
         print("Sorry")
-
-shut_down(yes)
-shut_down(no)
-shut_down(na)
