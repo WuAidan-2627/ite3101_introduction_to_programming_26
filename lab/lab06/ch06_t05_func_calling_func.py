@@ -1,4 +1,4 @@
-int m
+int m;
 def one_good_turn(n: int):
     return int m = n + 1
 
