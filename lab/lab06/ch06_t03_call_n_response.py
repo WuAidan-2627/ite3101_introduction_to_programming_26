@@ -1,4 +1,5 @@
 def square(n: float) -> float:
+    n = 10
     """Returns the square of a number."""
     squared = n ** 2
     print("%d squared is %d." % (n, squared))
