@@ -2,7 +2,7 @@ def shutdown(s:str)->str:
     return s
 
  if happy(): 
-  speak("Shutting down") 
+  shutdown("Shutting down") 
  elif sad(): 
   speak("Shutdown aborted") 
  else: 
