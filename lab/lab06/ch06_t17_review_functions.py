@@ -8,4 +8,4 @@ def shut_down(s: str) -> str:
 
 shut_down(yes)
 shut_down(no)
-shut_down(yes)
+shut_down(na)
