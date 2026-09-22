@@ -1,4 +1,4 @@
 # Import *just* the sqrt function from math on line 3!
-from module import function
+from math import function
 
 sqrt(25)
