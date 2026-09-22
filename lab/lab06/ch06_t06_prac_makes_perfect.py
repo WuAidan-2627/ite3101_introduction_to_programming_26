@@ -1,3 +1,4 @@
-def cube(number)
+def cube(phrase:number)->number:
+    
 
 def by_three()
