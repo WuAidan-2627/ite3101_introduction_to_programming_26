@@ -1,7 +1,6 @@
-int m;
 def one_good_turn(n: int):
-    return m = n + 1
+    return n + 1
 
 
 def deserves_another(m):
-    return m + 2
+    return one_good_turn(n: int)n + 2
