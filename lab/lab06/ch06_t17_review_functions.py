@@ -3,7 +3,7 @@ def shutdown(s:str)->str:
 
  if yes(): 
   shutdown("Shutting down") 
- elif sad(): 
+ elif no(): 
   shutdown("Shutdown aborted") 
  else: 
   shutdown("Sorry")
