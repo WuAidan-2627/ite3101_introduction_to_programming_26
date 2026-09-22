@@ -7,3 +7,5 @@ def shut_down(s: str) -> str:
         print("Sorry")
 
 shut_down(yes)
+shut_down(no)
+shut_down(yes)
