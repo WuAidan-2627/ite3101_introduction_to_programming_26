@@ -1,6 +1,6 @@
 def shutdown(s:str)->str:
     if s == yes: 
-      shutdown("Shutting down") 
+      print("Shutting down") 
      elif no(): 
       shutdown("Shutdown aborted") 
      else: 
