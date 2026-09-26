@@ -5,5 +5,5 @@ def cube(number: int) -> int:
 def by_three(number: int) -> int:
     if cube(number) % 3 == 0:
         return cube(number)
-    elif:
+    elif cube(number) % 3 != 0:
         return print("False")
