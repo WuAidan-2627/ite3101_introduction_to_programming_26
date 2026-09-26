@@ -11,7 +11,7 @@ bool_two = (10 + 17) == 3**16
 bool_three = 1**2 <= -1
 
 # 40 * 4 >= -4
-bool_four = None
+bool_four = 40 * 4 >= -4
 
 # 100 != 10**2
 bool_five = None
