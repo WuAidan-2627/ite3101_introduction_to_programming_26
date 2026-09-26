@@ -14,4 +14,4 @@ bool_three = 1**2 <= -1
 bool_four = 40 * 4 >= -4
 
 # 100 != 10**2
-bool_five = None
+bool_five = 100 != 10**2
