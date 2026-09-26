@@ -13,4 +13,4 @@ bool_three = (2 == 2) and (4 < 2)
 bool_four = not (4 < 2)
 
 # Make me true!
-bool_five = (2 == 2) and (4 < 2)
+bool_five = (2 == 2) and not (4 < 2)
