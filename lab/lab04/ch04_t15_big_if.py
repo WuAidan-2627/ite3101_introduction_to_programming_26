@@ -1,6 +1,6 @@
 # Complete the if and elif statements!
 def grade_converter(answer: int) -> str:
-    if 89 < answer:
+    if 90 <= answer:
         return "A"
     elif (79 < answer) and  (answer< 90):
         return "B"
