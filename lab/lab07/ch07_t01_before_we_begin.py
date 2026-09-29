@@ -1,2 +1,2 @@
-def bigger(first, second): 
+def bigger: 
   return 42
