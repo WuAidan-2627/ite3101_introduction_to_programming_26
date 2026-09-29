@@ -1,1 +1,1 @@
-pirnt
+print (Pig Latin)
