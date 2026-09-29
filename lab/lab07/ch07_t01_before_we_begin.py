@@ -1,2 +1,2 @@
-def bigger: 
+def answer: 
   return 42
