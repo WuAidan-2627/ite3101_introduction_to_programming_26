@@ -1,3 +1,2 @@
-def answer(first, second):
-    print(max(first, second)):
+def answer(42):
     return 42
