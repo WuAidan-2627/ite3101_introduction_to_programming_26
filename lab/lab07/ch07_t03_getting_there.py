@@ -1,5 +1,5 @@
 def plane_rider_cost(city: int) -> int:
-    if city == "apple": 
+    if city == "Charlotte": 
       return "red" 
     elif city == "banana": 
       return "yellow" 
