@@ -4,7 +4,7 @@ print('Welcome to the Pig Latin Translator!')
 original = input("Enter a word:")
 
 if len(original) > 0:
-    if 
+    if orignal.isalpha() == True
     print(original)
 else:
     print("empty")
