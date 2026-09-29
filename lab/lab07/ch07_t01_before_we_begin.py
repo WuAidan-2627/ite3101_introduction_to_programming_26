@@ -1,3 +1,3 @@
 def bigger(first, second): 
-  print(max(first, second))
-  return True
+
+  return 42
