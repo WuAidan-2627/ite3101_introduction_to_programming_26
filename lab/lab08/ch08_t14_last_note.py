@@ -4,7 +4,8 @@ inventory = {
     'pouch': ['flint', 'twine', 'gemstone'],
     'backpack': ['xylophone', 'dagger', 'bedroll', 'bread loaf']
     'pockey': ['seashell', 'strange berry', 'lint']
-    
+    'backpack'.sort()
+    'backpack'.remove('dagger')
 }
 
 # Adding a key 'burlap bag' and assigning a list to it
