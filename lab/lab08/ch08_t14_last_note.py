@@ -13,6 +13,6 @@ inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
 inventory['pouch'].sort()
 
 # Your code here
-'pockey': ['seashell', 'strange berry', 'lint']
-'backpack'.sort()
-'backpack'.remove('dagger')
+inventory['pockey']: ['seashell', 'strange berry', 'lint']
+inventory['backpack'.sort()
+inventory['backpack'.remove('dagger')
