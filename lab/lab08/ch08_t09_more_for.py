@@ -5,5 +5,5 @@ square_list = []
 for number in start_list:
     # Your code here
     square_list.append(number**2)
-
+square_list.sort()
 print(square_list)
