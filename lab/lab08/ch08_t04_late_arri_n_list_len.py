@@ -2,9 +2,9 @@ suitcase = []
 suitcase.append("sunglasses")
 
 # Your code here!
-suitcase.append('d') 
-suitcase.append('d') 
-suitcase.append('d') 
+suitcase.append('passport') 
+suitcase.append('wallet') 
+suitcase.append('T') 
 list_length = 4  # Set this to the length of suitcase
 
 print("There are %d items in the suitcase." % list_length)
