@@ -1,6 +1,8 @@
 suitcase = []
 suitcase.append("sunglasses")
-
+letters.append('d') 
+letters.append('d') 
+letters.append('d') 
 # Your code here!
 
 
