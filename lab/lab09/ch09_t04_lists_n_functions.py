@@ -3,6 +3,6 @@ def fizz_count(x):
     count = 0 
   for n in x: 
     if x =='fizz': 
-      total = total + 1 
+      count + 1 
   return total 
 
