@@ -10,3 +10,6 @@ stock = {
     "orange": 32,
     "pear": 15,
 }
+for key in once: 
+  print("Once: %s" % once[key]) 
+  print("Twice: %s" % twice[key])
