@@ -2,7 +2,7 @@
 def fizz_count(x): 
     count = 0 
   for n in x: 
-    if string ='*fizz*': 
+    if string ='fizz': 
       total = total + 1 
   return total 
 
