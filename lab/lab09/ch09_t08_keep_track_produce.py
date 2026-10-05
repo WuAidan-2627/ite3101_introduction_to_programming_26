@@ -12,5 +12,5 @@ stock = {
 }
 for key in prices: 
   print("apple")
-  print("Once: %s" % once[key]) 
+  print("apple: %s" % once[key]) 
   print("Twice: %s" % twice[key])
