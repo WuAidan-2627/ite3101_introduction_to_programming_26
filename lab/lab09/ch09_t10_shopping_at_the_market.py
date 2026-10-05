@@ -1,1 +1,1 @@
-shopping_list = ["banana", "orange", "apple"]
+Groceries = ["banana", "orange", "apple"]
