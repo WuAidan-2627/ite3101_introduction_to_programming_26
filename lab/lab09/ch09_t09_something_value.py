@@ -17,5 +17,5 @@ for key in prices:
     print("stock: %s" % stock[key])
 
 total =0
-for key in prices:
+for key2 in prices:
     total += prices[key]**stock[key]
