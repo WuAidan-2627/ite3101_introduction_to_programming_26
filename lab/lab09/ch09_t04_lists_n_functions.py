@@ -1,4 +1,8 @@
 # Write your function below!
 def fizz_count(x): 
-    count = 0
-    
+    count = 0 
+  for n in numbers: 
+    if n < 10: 
+      total = total + 1 
+  return total 
+
