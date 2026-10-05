@@ -4,5 +4,6 @@ webster = {
     "Carpet": "Goes on the floor.",
     "Dab": "A small amount."
 }
-
+for key in [1, 3, 21]: 
+  print(item)
 # Add your code below!
