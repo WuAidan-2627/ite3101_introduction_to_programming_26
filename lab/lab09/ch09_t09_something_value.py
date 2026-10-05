@@ -21,3 +21,4 @@ for key2 in prices:
     sales += prices[key]*stock[key]
     print(sales)
     total += sales
+print (total)
