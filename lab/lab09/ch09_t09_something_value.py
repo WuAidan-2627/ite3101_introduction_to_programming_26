@@ -18,4 +18,4 @@ for key in prices:
 
 total =0
 for key2 in prices:
-    total += prices[key]**stock[key]
+    total += prices[key]*stock[key]
