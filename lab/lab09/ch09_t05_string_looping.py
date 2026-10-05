@@ -1,5 +1,5 @@
 for letter in "Codecademy":
-    print(letters)
+    print(letter)
 
 # Empty lines to make the output pretty
 print()
