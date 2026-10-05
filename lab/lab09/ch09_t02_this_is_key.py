@@ -5,5 +5,5 @@ webster = {
     "Dab": "A small amount."
 }
 for key in webster: 
-  print(d[key])
+  print(webster[key])
 # Add your code below!
