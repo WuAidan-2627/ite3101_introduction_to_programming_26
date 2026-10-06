@@ -4,10 +4,10 @@ phrase = "A bird in the hand..."
 for char in phrase: 
     if char == 'A':
         print('X')
-        elif char == 'a':
-    print ('X')
-  else:
-    print(char, end='')
+    elif char == 'a':
+        print ('X')
+    else:
+        print(char, end='')
 
 
 # Don't delete this print statement!
