@@ -1,5 +1,5 @@
 hobbies = []
 
 # Add your code below!
-suitcase.append('Jacket')
+hobbies.append('G')
 list_length = 4 
