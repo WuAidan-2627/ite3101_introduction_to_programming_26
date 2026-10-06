@@ -1,8 +1,10 @@
 # Write your function below!
-def fizz_count(x): 
-    count = 0 
+def fizz_count(x):
+    count = 0
     for n in x:
-        if x == "fizz": 
-         count += 1 
-    return count 
-print(fizz_count(["fizz","cat","fizz"]))
+        if n == "fizz":
+            count += 1
+    return count
+
+
+print(fizz_count(["fizz", "cat", "fizz"]))
