@@ -9,7 +9,7 @@ num = random.randint(1, 6)
 while guesses_left > 0: 
   guess = int(input("Your guess: "))  
   if num == guess: 
-    print("Sorry, you lose!") 
+    print("You Win!") 
     break 
   count += 1 
  else: 
