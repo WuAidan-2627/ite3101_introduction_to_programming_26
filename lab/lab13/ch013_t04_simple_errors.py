@@ -1,9 +1,9 @@
 choice = input('Enjoying the course? (y/n)')
 
 while True:  # Fill in the condition (before the colon)
-    if num =='y':
+    if choice =='y':
         break
-    elif num =='n':
+    elif choice =='n':
         break
-
-    choice = input("Sorry, I didn't catch that. Enter again: ")
+    else
+        choice = input("Sorry, I didn't catch that. Enter again: ")
