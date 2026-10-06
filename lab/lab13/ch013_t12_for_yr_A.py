@@ -6,8 +6,8 @@ for char in phrase:
     print('X')
   elif char == 'a':
     print ('X')
-else
-  print(char, end='')
+  else:
+    print(char, end='')
 
 
 # Don't delete this print statement!
