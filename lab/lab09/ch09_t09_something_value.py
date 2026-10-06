@@ -13,6 +13,6 @@ stock = {
 total = 0
 for key in prices:
 
-    print(key": %s" % prices[key]*stock[key])
+    print(key": " % prices[key]*stock[key])
     total += (prices[key]*stock[key])
 print(total)
