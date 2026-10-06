@@ -1,7 +1,7 @@
 num = 1
 
 while count < 11:  # Fill in the condition
-    print("Hello, I am a while and count is", count)
+    print(num**2)
     count += 1
 
     pass
