@@ -20,5 +20,3 @@ def compute_bill(food: list[num]):
   for number in food: 
     total += number 
   return total 
-
-n = [1, 2, 5, 10, 13] 
