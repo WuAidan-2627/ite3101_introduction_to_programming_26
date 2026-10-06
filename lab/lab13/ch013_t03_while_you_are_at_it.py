@@ -1,7 +1,6 @@
 num = 1
 
-while False:  # Fill in the condition
-    
+while count < 11:  # Fill in the condition
     print("Hello, I am a while and count is", count)
     count += 1
 
