@@ -1,5 +1,5 @@
 hobbies = []
 
 # Add your code below!
-hobbies.append('G')
-list_length = 4 
+hobbies.append('Gaming')
+list_length = 3 
