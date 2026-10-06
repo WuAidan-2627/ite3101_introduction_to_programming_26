@@ -5,7 +5,6 @@ random_number = randint(1, 10)
 
 guesses_left = 3
 # Start your game!
-count = 0 
 while count < 3: 
   num = random.randint(1, 6) 
   print(num) 
