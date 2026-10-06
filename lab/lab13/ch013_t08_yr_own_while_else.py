@@ -5,7 +5,7 @@ random_number = randint(1, 10)
 
 guesses_left = 3
 # Start your game!
-num = random.randint(1, 6) 
+num = random_number
 while guesses_left > 0: 
     guess = int(input("Your guess: "))  
     if num == guess: 
