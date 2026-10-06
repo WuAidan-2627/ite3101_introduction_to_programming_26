@@ -15,7 +15,7 @@ prices = {
 }
 
 # Write your code below!
-def sum(numbers): 
+def compute_bill(numbers): 
   total = 0 
   for number in numbers: 
     total += number 
