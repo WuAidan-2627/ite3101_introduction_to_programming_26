@@ -1,8 +1,8 @@
 num = 1
 
-while count < 11:  # Fill in the condition
+while num < 11:  # Fill in the condition
     print(num**2)
-    count += 1
+    num += 1
 
     pass
 # Print num squared
