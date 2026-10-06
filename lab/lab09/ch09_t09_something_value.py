@@ -20,4 +20,4 @@ total = 0
 for key in prices:
     print(key)
     print(prices[key]*)
-    print()
+    total +=
