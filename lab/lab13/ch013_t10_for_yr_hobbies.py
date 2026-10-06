@@ -3,5 +3,5 @@ hobbies = []
 # Add your code below!
 hobbies.append('swimming')
 hobbies.append('running')
-hobbies.append('swimming, running, football')
+hobbies.append('football')
 list_length = 3 
