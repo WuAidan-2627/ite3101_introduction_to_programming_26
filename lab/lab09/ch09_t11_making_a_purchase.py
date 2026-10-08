@@ -20,5 +20,5 @@ prices = {
 def compute_bill(food):
     total = 0
     for number in food:
-        total += number
+        total = total + number
     return total
