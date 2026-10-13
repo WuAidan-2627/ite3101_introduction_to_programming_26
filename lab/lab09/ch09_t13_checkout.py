@@ -33,4 +33,4 @@ def compute_bill(food: List[str]) -> float:
 
 compute_bill(banana);
 compute_bill(orange);
-print (totl);
+print (total);
