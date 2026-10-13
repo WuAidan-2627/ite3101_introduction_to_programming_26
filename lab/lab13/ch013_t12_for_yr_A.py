@@ -7,7 +7,7 @@ for char in phrase:
     elif char == 'a':
         print('X')
     else:
-        print(char, en='')
+        print(char, end='')
 
 
 # Don't delete this print statement!
