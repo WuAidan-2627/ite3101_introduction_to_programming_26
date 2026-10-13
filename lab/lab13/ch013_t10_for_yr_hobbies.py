@@ -4,3 +4,5 @@ hobbies = []
 hobbies.append('swimming')
 hobbies.append('running')
 hobbies.append('football')
+
+print(hobbies)
