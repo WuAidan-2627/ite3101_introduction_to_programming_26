@@ -3,7 +3,7 @@ n = "Hello"
 
 
 def string_function(s: str) -> str:
-    return n+"world"
+    return s +"world"
 
 
 print(string_function(n))
