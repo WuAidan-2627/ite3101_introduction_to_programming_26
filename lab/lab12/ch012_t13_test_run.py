@@ -1,4 +1,4 @@
-from random import randint
+from andom import randint
 from typing import List
 
 board = []
