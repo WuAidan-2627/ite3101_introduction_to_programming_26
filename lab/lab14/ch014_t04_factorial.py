@@ -1,1 +1,2 @@
-def factorial()
+def factorial(n : int) -> int:
+    
