@@ -1,4 +1,4 @@
-def digit_sum(x:int)->int:
+def digit_sum(n:int)->int:
     sum = 0
     for char in str(n):
         sum += char
