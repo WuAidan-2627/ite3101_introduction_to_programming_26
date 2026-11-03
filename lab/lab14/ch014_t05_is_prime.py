@@ -6,4 +6,3 @@ def id_prime(x : int)->bool:
             if x % n == 0:
                return False
             return True
-
