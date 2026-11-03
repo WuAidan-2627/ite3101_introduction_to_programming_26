@@ -1,2 +1,3 @@
 def factorial(n : int) -> int:
-    if()
+    if(n, n == 0, n--)
+    
