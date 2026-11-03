@@ -4,6 +4,6 @@ def id_prime(x : int)->bool:
     else:
         for n in range(2,x-1):
             if x % n == 0:
-               return false
-            return ture
+               return False
+            return Ture
 
