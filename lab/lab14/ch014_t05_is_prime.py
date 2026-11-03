@@ -1,0 +1,1 @@
+def id_prime(x : int)->int:
