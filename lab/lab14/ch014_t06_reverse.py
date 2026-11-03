@@ -1,1 +1,1 @@
-def is_prime(text : str)-> str:
+def reverse(text : str)-> str:
