@@ -1,4 +1,4 @@
-import typing 
+from typing 
 
 
 def purify (seq:List[int])->List[int]:
