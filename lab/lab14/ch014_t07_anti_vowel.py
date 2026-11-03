@@ -1,6 +1,6 @@
 def anti_vowel (text: str) ->str:
     result =""
-    for charin text:
+    for char in text:
         if  char.lower() not in "aeiou":
         result +=char
     return result
