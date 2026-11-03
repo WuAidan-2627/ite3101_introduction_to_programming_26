@@ -1,3 +1,6 @@
+import typing 
+
+
 def purify (seq:List[int])->List[int]:
     result=[]
     for item in seq:
