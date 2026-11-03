@@ -1,4 +1,5 @@
-from typing 
+from typing import List
+from unittest impoer result
 
 
 def purify (seq:List[int])->List[int]:
