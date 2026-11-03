@@ -5,5 +5,5 @@ def id_prime(x : int)->bool:
         for n in range(2,x-1):
             ifx % n ==0:
                 return false
-                return ture
+            return ture
 
