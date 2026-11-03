@@ -1,6 +1,5 @@
 def factorial(n : int) -> int:
     product = 1;
-    for i in range(1, x+1){ 
+    if(n, n == 0, n--): 
         product *= n 
-    }
         return product
