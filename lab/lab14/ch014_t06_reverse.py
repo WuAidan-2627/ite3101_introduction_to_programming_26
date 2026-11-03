@@ -1,4 +1,5 @@
 def reverse(text : str)-> str:
    word =""
    length = len(text) -1
-   while elngth >=0:
+   while length >=0:
+    word += text[Length]
