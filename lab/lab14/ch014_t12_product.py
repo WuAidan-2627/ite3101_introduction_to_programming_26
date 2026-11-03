@@ -2,6 +2,6 @@ from typing import List
 
 def product (seq:List[int])->int:
     result = 1 
-    for i in seq:
+    for item in seq:
         result*=item
     return result
