@@ -1,5 +1,8 @@
 def censor(text: str) -> str:
     result=[]
     for s in text.split():
-        result.append("*"*len(word))
-        
+        if s == word:
+            result.append("*"*len(word))
+        else:
+            result.append(s)
+            
