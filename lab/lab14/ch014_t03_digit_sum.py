@@ -1,1 +1,2 @@
-def digit_sum(x:int)
+def digit_sum(x:int)->int:
+    
