@@ -1,5 +1,6 @@
 def factorial(n : int) -> int:
     product = 0;
-    if(n, n == 0, n--){
+    if(n, n == 0, n--){ 
+        product 
 
     }
