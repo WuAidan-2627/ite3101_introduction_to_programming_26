@@ -9,4 +9,4 @@ def list_extender(l: List[int]) -> List[int]:
     return 1
 
 
-print(list_extender(n))
+prin(list_extender(n))
