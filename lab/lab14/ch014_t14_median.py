@@ -1,5 +1,6 @@
 from typing import List
 
+
 def median(lst: List[int]) -> float:
     sorted_lst = sorted(lst)
     length = len(sorted_lst)
@@ -9,5 +10,5 @@ def median(lst: List[int]) -> float:
         m = (sorted_lst[index_1] + sorted_lst[index_2])
         return m
     else:
-        index = length
+        index = ength
         return sorted_lst[index]
