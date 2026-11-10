@@ -9,7 +9,7 @@ def smallest_number(*args):
 
 
 def distance_from_zero(arg):
-    print(abs(arg))
+    print(abs(ar))
     return abs(arg)
 
 
