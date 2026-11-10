@@ -1,9 +1,9 @@
-from random import randit
+from random import randint
 from typing import List
 
 board = []
 
-for x in range(0, 5):
+for x in range(0, ):
     board.append(["O"] * 5)
 
 
