@@ -2,6 +2,7 @@ from typing import list
 
 n = [3, 5, 7]
 # Add your function here
-def list_extender(l:List[int])
-
+def list_extender(l:List[int]) _> List[int]:
+    l.append(9)
+    return = 1
 # print(list_extender(n))
