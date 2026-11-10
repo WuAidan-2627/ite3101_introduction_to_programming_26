@@ -3,7 +3,7 @@ from typing import List
 
 board = []
 
-for x in range(0, ):
+for x in range(0, 5):
     board.append(["O"] * 5)
 
 
