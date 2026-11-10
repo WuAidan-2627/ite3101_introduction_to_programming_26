@@ -1,4 +1,4 @@
-from random import randint
+from random import randit
 from typing import List
 
 board = []
