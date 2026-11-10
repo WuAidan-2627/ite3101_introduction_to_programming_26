@@ -1,4 +1,4 @@
-n = "Hello"
+n = "ello"
 # Your function here!
 
 def string_function(s: str) -> str:
